@@ -1,1 +1,1 @@
-# Reponsive Landing Page for Food Restaurant
+# Responsive Landing Page for Food Restaurant
